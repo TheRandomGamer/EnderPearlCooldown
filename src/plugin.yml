@@ -1,0 +1,5 @@
+name: EnderPearlCooldown
+version: 1.0
+main: me.therandomgamer.epearlcooldown.Main
+author: TheRandomGamer
+depends: [ActionBarAPI]
